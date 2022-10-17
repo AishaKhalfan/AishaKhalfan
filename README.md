@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AishaKhalfan
-- 👀 I’m interested in software Engineering
+- 👋 Hi, I’m @AishaKhalfan  
+- 👀 I’m interested in software Engineering, CyberSecurity
 - 🌱 I’m currently learning Software Engineering at ALX ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Software Engineering Projects
 - 📫 How to reach me ...
 
 <!---
