@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @AishaKhalfan  
-- 👀 I’m interested in software Engineering, CyberSecurity
-- 🌱 I’m currently learning Software Engineering at ALX ...
-- 💞️ I’m looking to collaborate on Software Engineering Projects
-- 📫 How to reach me 👇👇
-  - Email @ aishakhalfan45@gmail.com
+
   - LinkedIn @ https://www.linkedin.com/in/aisha-khalifan-433227b5/
   - Twitter @ https://twitter.com/aishakhalfan_
 
@@ -105,35 +100,21 @@ You can click the Preview link to take a look at your changes.
    <br>
    <br>
    <br>
-   
-<a href="https://www.linkedin.com/in/mark-gatere-615584216/" target="_blank">
-<img width=25% height=50% src="https://img.shields.io/badge/-Connect With Me-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-gatere-615584216/)](https://www.linkedin.com/in/mark-gatere-615584216/"/>
-</a>
-   <br>
-   <br>
-   <br>
-   
-<a href="https://twitter.com/gatere_mark" target="_blank">
-<img width=25% height=50% src="https://img.shields.io/badge/-Follow Me-white?style=flat&logo=twitter&logoColor=blue&link=https://twitter.com/gatere_mark)](https://twitter.com/gatere_mark"/>
-</a>
+
    
    <br>
    <br>
    <br>
-   
-<a href="https://devlibrary.withgoogle.com/authors/gateremark" target="_blank">
-<img width=25% height=50% src="https://img.shields.io/badge/-Blog Posts-black?style=flat&logo=medium&logoColor=white&link=https://devlibrary.withgoogle.com/authors/gateremark)](https://devlibrary.withgoogle.com/authors/gateremark"/>
-   </a>
 </p>
    
 <div align=center>
-   <a href="https://github.com/gateremark">
+   <a href="https://github.com/AishaKhalfan">
    <img height=50 width=100% src="static/divider.gif">
    </a>
 </div>
 
    
-<h3 align="center"><a href="https://github.com/gateremark"><img width=15% alt="Phone" src="static/phone.gif">&nbsp;<img width=80% alt="Wanna Talk?" src="static/wannatalk.svg"/></a></h3>
+<h3 align="center"><a href="https://github.com/AishaKhalfan"><img width=15% alt="Phone" src="static/phone.gif">&nbsp;<img width=80% alt="Wanna Talk?" src="static/wannatalk.svg"/></a></h3>
 <div align=center>
   
    <a href="mailto:aishakhalfan45@gmail.com" target="_blank">
