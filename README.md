@@ -125,22 +125,11 @@ You can click the Preview link to take a look at your changes.
  -->
 <div align=center>
    <a href="https://github.com/AishaKhalfan">
-   <img align="center" alt="Footer" width=100% src="static/footer.svg"/>
-</div>
-
-<div align=center>
-   <a href="https://github.com/AishaKhalfan">
    <img height=50 width=100% src="static/divider.gif">
    </a>
 </div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AishaKhalfan&show_icons=true&locale=en&layout=compact&count_private=true&langs_count=15&theme=dark" alt="AishaKhalfan" /></p>
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AishaKhalfan&show_icons=true&locale=en&theme=dark" alt="AishaKhalfan" /></p>
-
-
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AishaKhalfan&theme=dark" alt="AishaKhalfan" /></p>
 
 <!--<a href="http://www.github.com/Aquarius-blake"><img src="https://activity-graph.herokuapp.com/graph?AishaKhalfan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
