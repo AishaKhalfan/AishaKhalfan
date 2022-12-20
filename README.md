@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
       <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Software+Engineering;Flutter+%26+React;and+Other+Frameworks" /></a>
       <br>
       👯 I’m looking to collaborate on:
-      <a href="https://github.com/gateremark">
+      <a href="https://github.com/AishaKhalfan">
       <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines= Mobile+App+Developments;Web+App+Projects+ AND;Desktop+App+Developments" /></a>
       <br>
       💬 Talk to me all about:
