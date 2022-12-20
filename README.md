@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
    <img height=50 width=100% src="static/divider.gif">
    </a>
 </div>
-<h1 align="center"><a href="https://github.com/AishaKhalfan"><img width=7% height=15% src="static/Hi.gif"/></a> Hi 👋 I'm Aisha Khalifan(💻💖☕).. ⚡ I am a...
+<h1 align="center"><a href="https://github.com/AishaKhalfan"><img width=7% height=15% src="static/Hi.gif"/></a> Hi I'm Aisha Khalifan(💻💖☕).. ⚡ I am a...
    <a href="https://github.com/AishaKhalfan">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Security+Analyst;Cyber+Security+Enthusiast" />
    </a>
