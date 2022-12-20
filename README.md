@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
    <img height=50 width=100% src="static/divider.gif">
    </a>
 </div>
-<h1 align="center"><a href="https://github.com/AishaKhalfan"><img width=7% height=15% src="static/Hi.gif"/></a> Hi 👋 I'm Aisha Khalifan... ⚡ I am a...
+<h1 align="center"><a href="https://github.com/AishaKhalfan"><img width=7% height=15% src="static/Hi.gif"/></a> Hi 👋 I'm Aisha Khalifan(💻💖☕).. ⚡ I am a...
    <a href="https://github.com/AishaKhalfan">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Security+Analyst;Cyber+Security+Enthusiast" />
    </a>
@@ -135,3 +135,14 @@ You can click the Preview link to take a look at your changes.
    <img height=50 width=100% src="static/divider.gif">
    </a>
 </div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AishaKhalfan&show_icons=true&locale=en&layout=compact&count_private=true&langs_count=15&theme=dark" alt="AishaKhalfan" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AishaKhalfan&show_icons=true&locale=en&theme=dark" alt="AishaKhalfan" /></p>
+
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AishaKhalfan&theme=dark" alt="AishaKhalfan" /></p>
+
+<!--<a href="http://www.github.com/Aquarius-blake"><img src="https://activity-graph.herokuapp.com/graph?AishaKhalfan&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
