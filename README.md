@@ -100,15 +100,15 @@ You can click the Preview link to take a look at your changes.
    </a>
 </div>
 
-<!--   
+   
 <h3 align="center"><a href="https://github.com/AishaKhalfan"><img width=15% alt="Phone" src="static/phone.gif">&nbsp;<img width=80% alt="Wanna Talk?" src="static/wannatalk.svg"/></a></h3>
 <div align=center>
-  
    <a href="mailto:aishakhalfan45@gmail.com" target="_blank">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=aishakhalfan45@gmail.com" />
    </a>
-   <a href="https://wa.me/+254714551030?text=Hey%20AishaK,%20I%20got%20your%20contact%20from%20GitHub.%20Looking%20forward%20to%20connecting%20with%20you." target="_blank"><img src="https://img.shields.io/badge/whatsapp-%4fce5d.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-</div>
+ </div>
+   <!--
+<a href="https://wa.me/+254714551030?text=Hey%20AishaK,%20I%20got%20your%20contact%20from%20GitHub.%20Looking%20forward%20to%20connecting%20with%20you." target="_blank"><img src="https://img.shields.io/badge/whatsapp-%4fce5d.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 -->
 <div align=center>
    <a href="https://github.com/AishaKhalfan">
