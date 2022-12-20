@@ -2,7 +2,7 @@
 - 👀 I’m interested in software Engineering, CyberSecurity
 - 🌱 I’m currently learning Software Engineering at ALX ...
 - 💞️ I’m looking to collaborate on Software Engineering Projects
-- 📫 How to reach me ...
+- 📫 How to reach me aishakhalfan45@gmail.com
 
 <!---
 AishaKhalfan/AishaKhalfan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
