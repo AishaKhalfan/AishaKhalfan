@@ -115,13 +115,14 @@ You can click the Preview link to take a look at your changes.
    <img height=50 width=100% src="static/divider.gif">
    </a>
 </div>
+<!--
 <div align=center>            
    <a href="https://github.com/AishaKhalfan">
    <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=a6129c&center=true&vCenter=true&width=450%&lines=Watch+a+Snake+eat+my+contributions+!" />
    <img align="center" alt="Snake" width=100% src="static/github-snake.svg" />
    </a>
 </div>
-
+ -->
 <div align=center>
    <a href="https://github.com/AishaKhalfan">
    <img align="center" alt="Footer" width=100% src="static/footer.svg"/>
