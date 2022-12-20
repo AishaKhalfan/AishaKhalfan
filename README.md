@@ -18,13 +18,13 @@ You can click the Preview link to take a look at your changes.
    <a href="https://github.com/AishaKhalfan" target="_blank">
    <img align="right" alt="Coding" width=45% height=100% src="static/coder2.gif" /></a>
    <h4>
-      🌱 I’m mostly interested in:
+      🌱 I’m currently learning:
       <a href="https://github.com/AishaKhalfan">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Software+Development;AI+%26+ML;Cyber+Security" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=250%&height=50%&lines=Software+Engineering;Flutter+%26+React;and+Other+Frameworks" /></a>
       <br>
       👯 I’m looking to collaborate on:
       <a href="https://github.com/gateremark">
-      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines=Web+App+Projects;AI+Projects;Software+Testing" /></a>
+      <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F7BB45&center=true&vCenter=true&width=250%&height=50%&lines= Mobile+App+Developments;Web+App+Projects+ AND;Desktop+App+Developments" /></a>
       <br>
       💬 Talk to me all about:
       <a href="https://github.com/AishaKhalfan">
@@ -91,8 +91,8 @@ You can click the Preview link to take a look at your changes.
    
    <br>
    <br>
-   <a href="https://twitter.com/gatere_mark" target="_blank">
-<img width=25% height=50% src="https://img.shields.io/badge/-Follow Me-white?style=flat&logo=twitter&logoColor=blue&link=https://twitter.com/gatere_mark)](https://twitter.com/_aishakhalfan"/>
+   <a href="https://twitter.com/_aishakhalfan" target="_blank">
+<img width=25% height=50% src="https://img.shields.io/badge/-Follow Me-white?style=flat&logo=twitter&logoColor=blue&link=https://twitter.com/_aishakhalfan)](https://twitter.com/_aishakhalfan"/>
 </a>
    <br>
    <br>
