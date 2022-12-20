@@ -7,14 +7,13 @@ AishaKhalfan/AishaKhalfan is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <!--Made By AishaKhalifan-->
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thank+You+for+Visiting!+You+Are+Welcome;Hope+We+Can+Work+Together+Sometime...&pause=1000&width=600)](https://git.io/typing-svg)
 <div align=center>
    <a href="https://github.com/AishaKhalfan">
    <img height=50 width=100% src="static/divider.gif">
    </a>
 </div>
-<h1 align="center"><a href="https://github.com/AishaKhalfan"><img width=7% height=15% src="static/Hi.gif"/></a> Hello there... Aisha Khalifan is my name...⚡ I am a...
+<h1 align="center"><a href="https://github.com/AishaKhalfan"><img width=7% height=15% src="static/Hi.gif"/></a> Hi 👋 I'm Aisha Khalifan... ⚡ I am a...
    <a href="https://github.com/AishaKhalfan">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Full+Stack+Developer;Security+Analyst;Cyber+Security+Enthusiast" />
    </a>
@@ -55,25 +54,22 @@ You can click the Preview link to take a look at your changes.
      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;&nbsp;
      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
    <br>
           <a href="https://github.com/AishaKhalfan">
               <img height=20 width=10% src="static/divider.gif">
           </a>
    <br>
-     <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />&nbsp;&nbsp;
-     <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> &nbsp;&nbsp;
      <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> &nbsp;&nbsp;
      <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> &nbsp;&nbsp;
      <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> &nbsp;&nbsp;
      <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/> &nbsp;&nbsp;
      <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/> &nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> &nbsp;&nbsp;
      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
-     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;&nbsp;
-     <img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>&nbsp;&nbsp;
-     <img alt="Socket IO" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>&nbsp;&nbsp;
      <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp;&nbsp;
-     <img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>&nbsp;&nbsp;
      <img alt="MS Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
    
 
@@ -93,14 +89,9 @@ You can click the Preview link to take a look at your changes.
 <br> -->
 
 <p>
-  <a href="https://khalfan.netlify.app/" target="_blank">
-<img width=30% height=60% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Monzo&style=flat&up_message=In%20Development&url=https%3A%2F%2Fkhalfan.netlify.app/" />
+  <a href="https://aishakhalfan.netlify.app/" target="_blank">
+<img width=30% height=60% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Monzo&style=flat&up_message=In%20Development&url=https%3A%2F%2Faishakhalfan.netlify.app/" />
 </a>
-   
-   <br>
-   <br>
-   <br>
-
    
    <br>
    <br>
