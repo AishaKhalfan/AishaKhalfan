@@ -1,7 +1,3 @@
-
-  - LinkedIn @ https://www.linkedin.com/in/aisha-khalifan-433227b5/
-  - Twitter @ https://twitter.com/aishakhalfan_
-
 <!---
 AishaKhalfan/AishaKhalfan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
