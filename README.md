@@ -137,6 +137,8 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AishaKhalfan&show_icons=true&locale=en&theme=dark" alt="AishaKhalfan" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AishaKhalfan&theme=dark" alt="AishaKhalfan" /></p>
 
+[![Aisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AishaKhalfan)](https://github.com/AishaKhalfan/github-readme-stats)
+
 <div align=center>
    <a href="https://github.com/AishaKhalfan">
    <img height=50 width=100% src="static/divider.gif">
