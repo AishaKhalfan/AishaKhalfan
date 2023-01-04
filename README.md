@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 </h1>
 <div align=center>
    <a href="https://github.com/AishaKhalfan" target="_blank">
-   <img align="right" alt="Coding" width=45% height=100% src="static/coder2.gif" /></a>
+   <img align="right" alt="Coding" width=45% height=100% src="static/hijab.jpeg" /></a>
    <h4>
       🌱 I’m currently learning:
       <a href="https://github.com/AishaKhalfan">
