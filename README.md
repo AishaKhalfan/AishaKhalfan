@@ -134,7 +134,7 @@ You can click the Preview link to take a look at your changes.
  -->
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AishaKhalfan&show_icons=true&locale=en&layout=compact&count_private=true&langs_count=15&theme=dark" alt="AishaKhalfan" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=AishaKhalfan&show_icons=true&locale=en&theme=dark" alt="AishaKhalfan" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=AishaKhalfan&show_icons=true&locale=en&theme=radical" alt="AishaKhalfan" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AishaKhalfan&theme=dark" alt="AishaKhalfan" /></p>
 <!--
 [![Aisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AishaKhalfan)](https://github.com/AishaKhalfan/github-readme-stats)
