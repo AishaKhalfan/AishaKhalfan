@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
    <img height=50 width=100% src="static/divider.gif">
    </a>
 </div>
-## 🚀 Exciting News! Nominated for [Insert Award/Recognition] 🌟
+## 🚀 Exciting News! Nominated for BEST PORTFOLIO PROJECT(TEAMS) 🌟
 
 After completing the ALX Software Engineering Program, I'm thrilled to share that I've been nominated for BEST PORTFOLIO PROJECT(TEAMS)! This recognition means a lot to me, and it wouldn't have been possible without the incredible ALX community, my mentors, and my fellow learners.
 
